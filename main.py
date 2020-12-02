@@ -7,7 +7,7 @@ import os
 import random
 import string
 
-TOKEN = "1176744340:AAErK_zMCH0cnjd4IHuDzcQ5GMlqQsytlmY"
+TOKEN = "Тут свой токен"
 
 THREADS_LIMIT = 1300
 
